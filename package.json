@@ -1,0 +1,23 @@
+{
+  "name": "node-mysql",
+  "version": "1.0.0",
+  "description": "Practice for NodeJS and MySQL.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avaforvr/node-mysql.git"
+  },
+  "author": "ava",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avaforvr/node-mysql/issues"
+  },
+  "homepage": "https://github.com/avaforvr/node-mysql#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.17.1"
+  }
+}
